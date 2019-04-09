@@ -1,0 +1,16 @@
+h1 {
+    text-align:center;
+    color:grey;
+}
+body {
+    background:black;
+    color:grey;
+}
+body {
+    font-family: 'Inconsolata', monospace;
+}
+img {
+    width:500px;
+    height:300px;
+    border:dotted;
+}
